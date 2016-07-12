@@ -1,0 +1,4 @@
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\bin\Release\SpeedrunComSharp.dll
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\bin\Release\SpeedrunComSharp.pdb
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\obj\Release\SpeedrunComSharp.dll
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\obj\Release\SpeedrunComSharp.pdb

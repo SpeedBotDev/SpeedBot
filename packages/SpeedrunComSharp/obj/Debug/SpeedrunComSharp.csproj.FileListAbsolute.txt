@@ -1,0 +1,5 @@
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\bin\Debug\SpeedrunComSharp.dll
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\bin\Debug\SpeedrunComSharp.pdb
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\obj\Debug\SpeedrunComSharp.csprojResolveAssemblyReference.cache
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\obj\Debug\SpeedrunComSharp.dll
+C:\Users\CrimZen\Desktop\Discord bot\APIs\SpeedrunComSharp-master\SpeedrunComSharp\obj\Debug\SpeedrunComSharp.pdb
